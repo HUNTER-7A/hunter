@@ -511,7 +511,7 @@ header .fa-solid {
         padding-top: 100;
     }
 
-    #services {
+    #services, .services-list div a ,.services-list, .services-list div,.services-list div:hover, .services-list div h2{
         padding-top: 100px;
         z-index: -1;
     }

@@ -513,6 +513,7 @@ header .fa-solid {
 
     #services {
         padding-top: 100px;
+        z-index: -1;
     }
 
     #works,
@@ -525,6 +526,7 @@ header .fa-solid {
 
     .work img {
         position: relative;
+        z-index: -1;
     }
 
     .contact-left,

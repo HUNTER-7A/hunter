@@ -24,6 +24,7 @@
 
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url('4.jpg');
+background-color: black;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
